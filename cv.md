@@ -1,5 +1,7 @@
 # KRYSTSINA BABICH
+
 ## Junior Frontend Developer
+
 ---
 
 ## Contact information
@@ -12,25 +14,37 @@
 
 ---
 
-## Briefly About Myself:
+## Briefly About Myself
 
-Having started my career as a layout designer in a local newspaper with minimum skills, I became profficient in printing design. My keen interest in printing technologies led me to working as a Prepress and DTP Engineer in the largest printing house in my city, where I continued self-learning, examining the process of creating wine and food labels, magazines and other printed goods.
+Higher education, year of graduation 2019
+A.S. Pushkin Brest State University, Brest
 
-Three years ago I’ve become passionate about retouching. I’ve mastered different retouching techniques,
-learned to work with graphic tablet, become an advanced Photoshop user and found my first job as a retoucher.
+Advanced training, courses
 
-Remote work as a retoucher gives me extra free time, which I spend learning Frontend Development.
-I’m interested in Web Development because this occupation provides endless possibilities for professional growth,
-besides there’s a huge amount of free high quality resources for self-education and a large community of developers.
+2022 JavaScript Web Application Development
+Educational Center for Programming and High Technologies LLC, JavaScript developer.
 
-I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
+2021 Development of websites using HTML, CSS and JavaScript.
+
+2021 LLC "Educational Center of programming and high technologies", Website development.
+
+2021 Fundamentals of Computer Science
+LLC "Educational Center for Programming and High Technologies", Understanding the basics of computer science.
+
+144-hour General English Course at Intermediate level CEFR Level B1.
+
+Private Educational Institution "Educational Technologies Training Center", English (B1).
+
+Skills: executive, I finish the job, the ability to work in a team, responsible, perfectionist, ready to learn new technologies, I study English at the same time.
 
 ---
 
-## Skills and Proficiency:
+## Skills and Proficiency
 
 * HTML5, CSS3
 * JavaScript Basics
 * Git, GitHub
 * VS Code, IntelliJ IDEA
-* Figma 
+* Figma
+
+![Avatar](ava.JPG)
